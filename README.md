@@ -1,3 +1,7 @@
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img src="profile2.jpg" alt="My Image" style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%;"/>
+</div>
+
 <h1 align="center">Hi 👋, I'm UMI ARIFAH BASRI</h1>
 <h3 align="center">A passionate software engineering students</h3>
 
